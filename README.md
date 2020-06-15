@@ -8,12 +8,13 @@ and to detect six feet distance voilations using Tiny Yolo on feed of CAM 2.
 Python
 
 ## REQUIREMENTS:
-Keras
-Tensorflow, Tensorflow gpu
-Numpy
-Pandas
-Scikit-image
-opencv
+- Keras
+- Tensorflow 
+- Tensorflow GPU
+- Numpy
+- Pandas
+- Scikit-image
+- opencv
 
 
 ## How to Use:
