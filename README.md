@@ -5,7 +5,8 @@ Facial mask detection using transfer learning and pretrained ResNet model on CAM
 and to detect six feet distance voilations using Tiny Yolo on feed of CAM 2.
 
 ## PREREQUISITES:
-Python
+- Python
+- Windows
 
 ## REQUIREMENTS:
 - Keras
