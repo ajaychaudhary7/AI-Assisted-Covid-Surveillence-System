@@ -33,6 +33,7 @@ python distance_detection.py -i input_video.mp4 -o output.avi -d=0
 ![](Distance-Detection/distancing.png)  
 
 **Mask Detection Output**
+
 ![](Mask-Detection/mask.jpg) ![](Mask-Detection/no_mask.jpg)
 
 
